@@ -23,6 +23,12 @@ console.log("This code is runngin from server");
 - put the following command in your `package.json` file
 
 ```json
-
+ "scripts": {
+    "start": "node index.js",
+  },
 ```
 
+- replace the exising `scripts` key
+- save the `package.json`
+- open the command line and run `npm start`
+- what happend?
