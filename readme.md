@@ -32,3 +32,10 @@ console.log("This code is runngin from server");
 - save the `package.json`
 - open the command line and run `npm start`
 - what happend?
+
+## install create-react-app
+
+- https://reactjs.org/docs/create-a-new-react-app.html
+
+- run the following command in your command line
+  `npm install -g create-react-app`
