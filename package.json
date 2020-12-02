@@ -1,0 +1,14 @@
+{
+  "name": "split_and_capitlize",
+  "version": "1.0.0",
+  "description": "this is created for test only",
+  "main": "index.js",
+  "scripts": {
+    "call-ofir-in-zoom": "node index.js",
+    "run-my-application": "node index.js",
+    "start": "node index.js",
+    "chrome": "open -a 'Google Chrome'"
+  },
+  "author": "gal amouyal",
+  "license": "ISC"
+}
