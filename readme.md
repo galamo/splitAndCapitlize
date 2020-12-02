@@ -44,3 +44,13 @@ console.log("This code is runngin from server");
 - `install` install the requested package ( download from registry )
 - `-g` meand globally on the computer
 - `create-react-app` package name
+
+
+# Create your first application in react
+- `npx create-react-app movies-app`
+
+# run your react app
+- after your folder created and files installed 
+- cd into your folder: `movies-app`
+- open command line and run `npm start`
+- open your browser on localhost:3000
