@@ -15,5 +15,14 @@ console.log("This code is runngin from server");
 
 - Run your JS Code: `node <FileName.js>`
 
-lets declare an npm script
-"start" command by adding: node index.js
+### Declare npm script
+
+- lets declare an npm script `start` command
+- every time we will execute `npm start`
+- it eventually will run `node index.js`
+- put the following command in your `package.json` file
+
+```json
+
+```
+
