@@ -39,3 +39,8 @@ console.log("This code is runngin from server");
 
 - run the following command in your command line
   `npm install -g create-react-app`
+
+- `npm` prefix commandline
+- `install` install the requested package ( download from registry )
+- `-g` meand globally on the computer
+- `create-react-app` package name
